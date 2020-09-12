@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">MisConciertos</string>
+    <string name="fecha_ejemplo">10/10/2020</string>
+    <string name="artista_ejemplo">Nombre del Artista</string>
+    <string name="valor_de_la_entrada">Valor de la entrada</string>
+    <string name="registrar">Registrar</string>
+    <string-array name="arrayGeneros">
+        <item>Rock</item>
+        <item>Jazz</item>
+        <item>Pop</item>
+        <item>Regueton</item>
+        <item>Salsa</item>
+        <item>Metal</item>
+    </string-array>
+    <string-array name="arrayClasificacion">
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+        <item>4</item>
+        <item>5</item>
+        <item>6</item>
+        <item>7</item>
+    </string-array>
+</resources>

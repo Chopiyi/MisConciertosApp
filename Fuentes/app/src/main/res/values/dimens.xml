@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="titulo">25sp</dimen>
+    <dimen name="marginTop">10dp</dimen>
+    <dimen name="paddingCuerpo">50dp</dimen>
+    <dimen name="inputs">25sp</dimen>
+    <dimen name="margenLados">50dp</dimen>
+</resources>
