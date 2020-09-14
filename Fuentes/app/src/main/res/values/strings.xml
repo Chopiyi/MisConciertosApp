@@ -1,6 +1,6 @@
 <resources>
     <string name="app_name">MisConciertos</string>
-    <string name="fecha_ejemplo">10/10/2020</string>
+    <string name="fecha_ejemplo">Fecha</string>
     <string name="artista_ejemplo">Nombre del Artista</string>
     <string name="valor_de_la_entrada">Valor de la entrada</string>
     <string name="registrar">Registrar</string>

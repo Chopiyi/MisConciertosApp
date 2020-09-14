@@ -9,4 +9,5 @@
     <color name="icons">#FFFFFF</color>
     <color name="divider">#BDBDBD</color>
     <color name="marino">#1a237e</color>
+    <color name="amber">#FFC107</color>
 </resources>

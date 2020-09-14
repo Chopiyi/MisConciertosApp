@@ -57,7 +57,7 @@
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
             android:layout_marginTop="@dimen/paddingCuerpo"
-            android:background="@color/primary">
+            android:background="@color/icons">
         </Spinner>
         <EditText
             android:id="@+id/valorEntrada"
@@ -79,6 +79,7 @@
             android:background="@color/icons">
         </Spinner>
         <Button
+            android:id="@+id/botonRegistro"
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
             android:layout_marginTop="@dimen/paddingCuerpo"
@@ -87,6 +88,22 @@
             android:textSize="@dimen/inputs"
             android:textStyle="bold">
         </Button>
-
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Eventos Registrados"
+            android:background="@color/primary_light"
+            android:textColor="@color/primary_text"
+            android:textSize="@dimen/inputs"
+            android:textAlignment="center"
+            android:layout_marginTop="@dimen/paddingCuerpo"
+            ></TextView>
+        <ListView
+            android:id="@+id/viewEventos"
+            android:layout_marginTop="@dimen/paddingCuerpo"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content">
+        </ListView>
     </LinearLayout>
+
 </LinearLayout>
